@@ -8,9 +8,6 @@
     "start": "NODE_ENV=production node Backend/server.js"
   },
   "type": "module",
-  "engines": {
-    "node": "20.x"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
